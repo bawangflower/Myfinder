@@ -36,11 +36,7 @@
  *
  */
 第一次
-<<<<<<< HEAD
-第2
 33
-=======
->>>>>>> parent of dec5280... 2
 
 #import <Foundation/Foundation.h>
 #import <AddressBook/ABPerson.h>
